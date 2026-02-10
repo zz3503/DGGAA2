@@ -25,11 +25,10 @@ cd ..
 cd grouping
 python setup.py install
 cd ..
-
 ```
 ## Result
 ```
-The dataset and model is available at https://huggingface.co/zz3503/DGGAA2
+The dataset and model is available at https://huggingface.co/datasets/zz3503/DGGAA2
 ```
 ### shapenetpart
 ```
